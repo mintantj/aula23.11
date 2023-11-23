@@ -15,7 +15,12 @@
         android:textAllCaps="true"
         android:textColor="#673A87"
         android:textSize="20sp"
-        android:textStyle="bold"
+        android:textStyle="bold" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/IdRecycleViewFilmes"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         />
 
 </LinearLayout>
