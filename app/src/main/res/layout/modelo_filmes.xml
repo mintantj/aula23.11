@@ -26,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5sp"
             android:text="My little poney"
             android:textAllCaps="true"
             android:textColor="#000"
@@ -33,7 +34,6 @@
             android:textStyle="bold"
 
             />
-
     </LinearLayout>
 
 
